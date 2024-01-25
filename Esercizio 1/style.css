@@ -1,0 +1,63 @@
+body{
+ display:flex;
+ justify-content: center;
+ text-align: left;
+ margin: 0;
+ height: 100%;
+ 
+   
+  
+}
+.logo{
+    margin-left: 180px;
+   width: 280px;
+   padding-bottom: 10px;
+   
+}
+#sottologo{
+ text-align: center;
+ background-color: #f5f5e2;
+ padding: 20px;
+ color: #1b8e61;
+
+}
+.autore{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.Titolo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    color: #0e8587;
+}
+
+.feat{
+    color: red;
+}
+
+#immaginefocaccia{
+    width: 700px;
+    height: 600px;
+    padding: 5px;
+}
+
+.featured{
+    border-left: 2px solid orange;
+}
+.sottoh1{
+    margin: 0;
+}
+
+.mainchange{
+   flex-direction: column; 
+}
+
+p{margin: 0;}
+
+#prefooter{
+    padding-bottom: 10px;
+}
